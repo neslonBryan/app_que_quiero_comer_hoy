@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "479734198010",
+    "project_id": "app-recetas-para-cocinar",
+    "storage_bucket": "app-recetas-para-cocinar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479734198010:android:93c02b1b14c8e678cfa343",
+        "android_client_info": {
+          "package_name": "com.neslon.app_recetas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479734198010-lvs9n14u795fc5qviob5sk5r3liqo53q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByT5bQg5gz8yu71VmEia4rwWcWVIwOSn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479734198010-lvs9n14u795fc5qviob5sk5r3liqo53q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
