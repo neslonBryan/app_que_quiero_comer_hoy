@@ -3,7 +3,7 @@ import 'package:app_recetas/view/widgets/receta_card.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 
-import '../models/receta.dart';
+import '../../models/receta.dart';
 
 class HomePage extends StatefulWidget {
   @override

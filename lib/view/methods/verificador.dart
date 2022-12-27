@@ -1,5 +1,5 @@
-import 'package:app_recetas/view/autenticacion_page.dart';
-import 'package:app_recetas/view/home_page.dart';
+import 'package:app_recetas/view/methods/autenticacion_page.dart';
+import 'package:app_recetas/view/pages/home_page.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 

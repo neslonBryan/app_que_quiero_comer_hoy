@@ -1,6 +1,6 @@
-import 'package:app_recetas/view/home_page.dart';
-import 'package:app_recetas/view/login_page.dart';
-import 'package:app_recetas/view/verificador.dart';
+import 'package:app_recetas/view/pages/home_page.dart';
+import 'package:app_recetas/view/pages/login_page.dart';
+import 'package:app_recetas/view/methods/verificador.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 
